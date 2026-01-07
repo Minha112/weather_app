@@ -2,7 +2,7 @@
 
 A beginner-friendly command-line weather application built using Python.
 
-## 🚀 Features
+##  Features
 - Shows temperature in °C  
 - Shows humidity  
 - Shows weather condition  
@@ -26,7 +26,7 @@ API_KEY = "YOUR_API_KEY_HERE"
 python main.py
 ```
 
-## 📌 Example Output
+##  Example Output
 ```
 === Simple Weather App ===
 Enter city name: Kochi
@@ -37,7 +37,7 @@ Humidity    : 75%
 Condition   : Cloudy
 ```
 
-## 📂 Files in This Project
+##  Files in This Project
 - `main.py` – main program  
 - `config.py` – API key  
 - `requirements.txt` – dependencies  
