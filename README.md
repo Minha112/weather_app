@@ -1,4 +1,4 @@
-# 🌦️ Weather App (Python CLI)
+#  Weather App (Python CLI)
 
 A beginner-friendly command-line weather application built using Python.
 
@@ -8,7 +8,7 @@ A beginner-friendly command-line weather application built using Python.
 - Shows weather condition  
 - Uses OpenWeatherMap API  
 
-## 🔧 How to Run
+##  How to Run
 
 ### 1. Install requirements
 ```bash
